@@ -1,3 +1,6 @@
+### Download "AgentShield-Submission.zip"
+Available under Releases → Assets.
+
 # Agent_Shield
 A Self-Learning Security Firewall for AI Agents.
 It is a security control plane for AI agents. AI agents can browse the web, read documents, and access tools, but that creates a serious risk: untrusted content can manipulate an agent into attempting unauthorized actions. AgentShield is designed to detect those threats and enforce security decisions before protected tools execute.
